@@ -1,0 +1,4 @@
+1. Wokwi
+2. Arduino Uno
+3. LDR (Light Dependent Resistor)
+4. LED

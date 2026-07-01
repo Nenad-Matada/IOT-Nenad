@@ -1,0 +1,4 @@
+1. Wokwi
+2. STM32 Nucleo C031C6
+3. Soil Moisture Sensor Module
+4. Water Pump (DC Mini Pump)

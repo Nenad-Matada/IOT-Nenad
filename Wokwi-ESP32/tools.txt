@@ -1,0 +1,4 @@
+1. Wokwi
+2. ESP32
+3. DHT22 sensor
+4. 16x2 LCD display

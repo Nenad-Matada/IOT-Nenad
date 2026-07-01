@@ -1,0 +1,4 @@
+1. TinkerCAD
+2. Arduino Uno
+3. Breadboard
+4. MQ-2 Gas Sensor
