@@ -112,6 +112,14 @@ https://wokwi.com/projects/460938409570791425
 
 **Nenad Matada**
 
+Department of Artificial Intelligence & Machine Learning
+
+Dayananda Sagar College of Engineering
+
+Course: Internet of Things and 5G (22AI642)
+
+Academic Year: 2025–26
+
 
 
 
